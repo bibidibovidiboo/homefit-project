@@ -1,6 +1,6 @@
-![homefit](https://user-images.githubusercontent.com/66943451/104336189-7df98980-5537-11eb-8edd-6c4ad641977b.jpg)
 # homefit-project
 홈 트레이닝 웹 사이트 구축 프로젝트<br/><br/>
+![homefit](https://user-images.githubusercontent.com/66943451/104336189-7df98980-5537-11eb-8edd-6c4ad641977b.jpg)
 ## 프로젝트 소개
 ```
 - 프로젝트 명 : 홈핏

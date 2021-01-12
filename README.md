@@ -25,4 +25,3 @@ Jsoup, JSP, Ajax, JQuery, Mybatis
 - 홈트샵 장바구니 기능 및 찜 기능
 - 운동, 홈트샵, 코치 정보의 검색 기능 
 ```
-<br/><br/>

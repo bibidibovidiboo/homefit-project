@@ -1,2 +1,2 @@
 # homefit-project
-<img src="https://user-images.githubusercontent.com/66943451/104334400-a6808400-5535-11eb-9f03-48596118058b.png">
+<img src="https://user-images.githubusercontent.com/66943451/104335504-c49ab400-5536-11eb-8a00-5c3379bcb155.jpg">

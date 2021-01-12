@@ -1,5 +1,5 @@
 # homefit-project
-홈 트레이닝 웹 사이트 구축 프로젝트 :muscle::running:
+>홈 트레이닝 웹 사이트 구축 프로젝트  :runner: :muscle:
 ## 프로젝트 소개
 ```
 - 프로젝트 명 : 홈핏

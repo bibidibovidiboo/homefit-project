@@ -1,4 +1,4 @@
-# homefit-project
+# Homefit
 홈 트레이닝 웹 사이트 구축 프로젝트<br/><br/>
 
 ## 프로젝트 소개

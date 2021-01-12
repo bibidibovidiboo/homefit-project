@@ -9,13 +9,13 @@
 
 ## 개발환경
 ```
-- Language : Java, JavaScript, HTML5, CSS3
+- Language : Java, JavaScript
 - DB : Oracle 
 - DevelopmentTools : Eclipse, Sql development
 ```
 ## 사용기술
 ```
-Jsoup, JSP, Ajax, JQuery, Mybatis
+HTML5, CSS3, Jsoup, JSP, Ajax, JQuery, Mybatis
 ```
 ## 주요기능
 ```

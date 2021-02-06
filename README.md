@@ -15,7 +15,7 @@
 ```
 ## 사용기술
 ```
-JSP, HTML5, CSS3, Ajax, JQuery, Mybatis, Jsoup
+JSP, HTML5, CSS3, JQuery, Ajax, Mybatis, Jsoup
 ```
 ## 주요기능
 ```

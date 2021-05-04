@@ -13,7 +13,6 @@ MVC 구조로 개발한 웹사이트의 구축을 통한 Spring MVC 프로세스
 20.09.21 - 20.10.30
 
 ### ✔ 개발 환경
-
 ```
 - Language : Java, JavaScript
 - DB : Oracle
@@ -52,6 +51,11 @@ JSP, HTML5, CSS3, JQuery, Ajax, Mybatis, Jsoup
 
 ## 담당 기능 
 
+### 프론트엔드 & 백엔드 💻🧡
+- 메인페이지 전체
+- 로그인 & 회원가입
+- DB 설계 및 데이터수집
+
 |메인페이지|로그인 & 회원가입|
 |-|-|
 |![메인페이지](https://user-images.githubusercontent.com/66943451/116985851-fca54d00-ad07-11eb-9603-e461ed87b405.png)|![로그인회원가입](https://user-images.githubusercontent.com/66943451/116987148-ab965880-ad09-11eb-98c9-4793a2a94721.jpg)|
@@ -59,3 +63,6 @@ JSP, HTML5, CSS3, JQuery, Ajax, Mybatis, Jsoup
 
 ## ERD
 ![DB](https://user-images.githubusercontent.com/66943451/116985756-e1d2d880-ad07-11eb-9c8d-df8587f4517a.png)
+
+## Organizations
+[@홈핏](https://github.com/91Percent)
